@@ -140,13 +140,15 @@ print(f"Точность: {accuracy:.2f}")
 
 График среднеквадратичной ошибки (MSE) на обучающей выборке:
 
-![Ошибка](error_plot.png)
+![изображение](https://github.com/user-attachments/assets/0cb76d95-add4-46a1-b860-ac08f6f492b5)
+
 
 ### Точность по эпохам
 
 Как модель улучшает свои предсказания во времени:
 
-![Точность](accuracy_plot.png)
+![изображение](https://github.com/user-attachments/assets/2739802f-71fa-4077-97f3-4857463fc60a)
+
 
 ---
 
